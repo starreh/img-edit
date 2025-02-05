@@ -6,7 +6,6 @@ A lightweight C++ Image Editor that supports basic image transformations for PPM
 - Flip Images (Horizontal & Vertical)  
 - Rotate Images (90°, 180°, 270°)  
 - Crop Images (Select a specific region)  
-- Tilt Images (Skew transformation)  
 - Add Padding (Dynamic padding with white background)  
 
 ## Installation & Compilation
